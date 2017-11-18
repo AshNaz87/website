@@ -1,0 +1,605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"labor",
+				"laboris"
+			],
+			[
+				"consec",
+				"consectetur"
+			],
+			[
+				"page",
+				"page_title\t(application_helper.rb)"
+			],
+			[
+				"rails",
+				"railstutorial.org\t(README.md)"
+			],
+			[
+				"over",
+				"overflow\t(_main.scss)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family\t(_main.scss)"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"about-",
+				"about-us-image\t(about-us.html.erb)"
+			],
+			[
+				"bord",
+				"border-radius\t(application.scss)"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"tel",
+				"tel-info\t(new.html.erb)"
+			],
+			[
+				"card",
+				"card-body\t(index.html.erb)"
+			],
+			[
+				"opening",
+				"opening-statement\t(index.html.erb)"
+			],
+			[
+				"wrapper",
+				"wrapper-details\t(new.html.erb)"
+			],
+			[
+				"wra",
+				"wrapper-details\t(new.html.erb)"
+			],
+			[
+				"row",
+				"div.row"
+			],
+			[
+				"float",
+				"float-right\t(new.html.erb)"
+			],
+			[
+				"nav",
+				"navbar-menu-list\t(_navbar.html.erb)"
+			],
+			[
+				"slider",
+				"slider-wrapper\t(index.html.erb)"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"animation",
+				"animationSpeed"
+			],
+			[
+				"slide",
+				"slide-header\t(index.html.erb)"
+			],
+			[
+				"menu",
+				"menu-toggle\t(_navbar.html.erb)"
+			],
+			[
+				"justify",
+				"justify-content"
+			],
+			[
+				"jut",
+				"justify-content"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"social",
+				"social-icons\t(contact.html)"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"w",
+				"width=device-width\t(links.html)"
+			],
+			[
+				"illustration",
+				"illustration-small.png"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tabb",
+				"tabby_cat"
+			],
+			[
+				"bootsr",
+				"bootstrap-sprockets\t(application.js)"
+			],
+			[
+				"head",
+				"head_office\t(map.rb)"
+			],
+			[
+				"new_message",
+				"new_message_url"
+			],
+			[
+				"assert",
+				"assert_match"
+			],
+			[
+				"asser",
+				"assert_message"
+			],
+			[
+				"btn-",
+				"btn-primary\t(new.html.erb)"
+			],
+			[
+				"posit",
+				"positioning\t(_mixins.scss)"
+			],
+			[
+				"line",
+				"line-break\t(new.html.erb)"
+			],
+			[
+				"student",
+				"student-info\t(show.html.erb)"
+			],
+			[
+				"input",
+				"input_html"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"ji",
+				"join\t(student.rb)"
+			],
+			[
+				"dae",
+				"date_of_birth"
+			],
+			[
+				"asseer",
+				"assert_response"
+			],
+			[
+				"date",
+				"date_of_birth"
+			],
+			[
+				"place",
+				"placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"emett",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 704.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ashraf_nazar/repos/website/about.html",
+		"/Users/ashraf_nazar/repos/website/index.html",
+		"/Users/ashraf_nazar/tmp/website-copy/about.html",
+		"/Users/ashraf_nazar/tmp/website-copy/index.html",
+		"/Users/ashraf_nazar/repos/website/images/breaching_whale.jpg",
+		"/Users/ashraf_nazar/repos/website/README.md",
+		"/Users/ashraf_nazar/.git/COMMIT_EDITMSG",
+		"/Users/ashraf_nazar/.gitconfig",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/controllers/users_controller.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/controllers/static_pages_controller.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/controllers/relationships_controller.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/controllers/password_resets_controller.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/models/user_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/models/micropost_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/controllers/users_controller_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/mailers/user_mailer.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/password_resets/edit.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/relationships/create.js.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/relationships/destroy.js.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/shared/_stats.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/user_mailer/account_activation.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/user_mailer/account_activation.text.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/user_mailer/password_reset.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/user_mailer/password_reset.text.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/_follow.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/_follow_form.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/_unfollow.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/edit.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/index.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/new.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/show.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/app/views/users/show_follow.html.erb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/users_profile_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/users_login_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/users_edit_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/password_resets_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/microposts_interface_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/integration/following_test.rb",
+		"/Users/ashraf_nazar/Desktop/Learn_Enough_Text_Editor/sample_app_3rd_edition-master/test/helpers/sessions_helper_test.rb",
+		"/Users/ashraf_nazar/Desktop/sonnet_1.txt",
+		"/Users/ashraf_nazar/Desktop/README.md",
+		"/Users/ashraf_nazar/Desktop/sonnets.txt",
+		"/Users/ashraf_nazar/Desktop/script.txt",
+		"/Users/ashraf_nazar/Desktop/hello_app/test/test_helper.rb",
+		"/Users/ashraf_nazar/Desktop/hello_app/test/application_system_test_case.rb",
+		"/Users/ashraf_nazar/Desktop/test.rb",
+		"/Users/ashraf_nazar/Desktop/lorem.txt",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/assets/stylesheets/static_pages.scss",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/assets/javascripts/cable.js",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/assets/javascripts/application.js",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/assets/stylesheets/application.css",
+		"/Users/ashraf_nazar/Desktop/database/db/schema.rb",
+		"/Users/ashraf_nazar/Desktop/sample_app/config/routes.rb",
+		"/Users/ashraf_nazar/Desktop/sample_app/Guardfile",
+		"/Users/ashraf_nazar/Desktop/sample_app/.gitignore",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/helpers/static_pages_helper.rb",
+		"/Users/ashraf_nazar/Desktop/sample_app/README.md",
+		"/Users/ashraf_nazar/Desktop/sample_app/app/views/layouts/application.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/show.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/controllers/users_controller.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/models/application_record.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/edit.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/db/schema.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/microposts/show.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/db/seeds.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/microposts/_form.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/controllers/microposts_controller.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/microposts/index.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/javascripts/application.js",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/javascripts/users.coffee",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/javascripts/microposts.coffee",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/stylesheets/application.css",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/stylesheets/scaffolds.scss",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/stylesheets/microposts.scss",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/assets/stylesheets/users.scss",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/models/micropost.rb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/microposts/new.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/new.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/_form.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/index.html.erb",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/show.json.jbuilder",
+		"/Users/ashraf_nazar/Desktop/toy_app/app/views/users/index.json.jbuilder",
+		"/Users/ashraf_nazar/Desktop/hello_app/Gemfile",
+		"/Users/ashraf_nazar/Desktop/hello_app/app/views/layouts/application.html.erb",
+		"/Users/ashraf_nazar/Desktop/hello_app/app/controllers/application_controller.rb",
+		"/Users/ashraf_nazar/Desktop/hello_app/config/routes.rb",
+		"/Users/ashraf_nazar/Desktop/coding_projects/hello_app/app/views/layouts/application.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_other_branch/app/views/contacts/create.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_other_branch/app/views/contacts/new.html.erb",
+		"/Users/ashraf_nazar/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ashraf_nazar/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/stylesheets/_about.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/stylesheets/_contact.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/views/contacts/new.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/models/contact.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/views/pages/index.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/views/contacts/create.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors/config/environments/production.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/views/pages/about.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/views/layouts/application.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/models/application_record.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/mailers/application_mailer.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/jobs/application_job.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/controllers/contacts_controller.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/config/manifest.js",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/stylesheets/application.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors/config/environment.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/stylesheets/_main.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors/public/assets/application-a51a8545421532e114058f264d397c7e02b5bc2ba3c5ae7a69341d308d084e5e.css",
+		"/Users/ashraf_nazar/Desktop/finetutors/Gemfile",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/images/ofsted.png",
+		"/Users/ashraf_nazar/Desktop/finetutors/app/assets/images/ofsted.jpeg",
+		"/Users/ashraf_nazar/Desktop/learning.py",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/models/contact.rb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/views/pages/index.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/views/pages/about.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/views/pages/programmes.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/images/ofsted.jpeg",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/stylesheets/_main.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/views/layouts/application.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/stylesheets/_variables.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/javascripts/pages.coffee",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/javascripts/application.js",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/views/layouts/_navbar.html.erb",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/Gemfile",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/stylesheets/_typography.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/stylesheets/_navbar.scss",
+		"/Users/ashraf_nazar/Desktop/finetutors_master/app/assets/javascripts/contact.coffee"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"stat",
+				"sample_app_3rd_edition-master/app/controllers/static_pages_controller.rb"
+			],
+			[
+				"user",
+				"sample_app_3rd_edition-master/app/controllers/users_controller.rb"
+			],
+			[
+				"userscontro",
+				"sample_app_3rd_edition-master/app/controllers/users_controller.rb"
+			],
+			[
+				"usercon",
+				"sample_app_3rd_edition-master/app/controllers/users_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
